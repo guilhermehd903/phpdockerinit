@@ -9,5 +9,5 @@
 // }
 
 // echo $json;
-print_r($_SERVER['HTTP_HOST']);
+print_r("testandooo");
 ?>
